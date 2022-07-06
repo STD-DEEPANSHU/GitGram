@@ -1,0 +1,34 @@
+{
+  "name": "ɢɪᴛɢʀᴀᴍ ʙᴏᴛ",
+  "description": "A Telegram Bot which will notify you about events of your GitHub Repo.",
+  "logo": "https://telegra.ph/file/04955bd5888a89dced11a.jpg",
+  "keywords": ["gitgram", "github", "events"],
+  "repository": "https://github.com/STD-DEEPANSHU/GitGram",
+  "stack": "container",
+  "env": {
+    "ENV": {
+      "description": "Set this to true if you want to use Heroku Environment",
+      "required": true,
+      "value": "True"
+    },
+    "BOT_TOKEN": {
+      "description": "Get this value from @BotFather on TG",
+      "required": true
+    },
+    "PROJECT_NAME": {
+      "description": "A name for your GitGram Bot Project",
+      "required": true,
+      "value": "GitGram"
+    },
+    "APP_URL": {
+      "description": "App url of your heroku app",
+      "required": true,
+      "value": "https://appname.herokuapp.com/"
+    },
+    "GIT_REPO_URL": {
+      "description": "Leave this as it is if you want your app to run.",
+      "required": true,
+      "value": "https://github.com/STD-DEEPANSHU/GitGram"
+    }
+  }
+}
