@@ -1,0 +1,31 @@
+{
+    "name": "GitGram",
+    "description": "GitHub and GitLab Integration for Telegram Bot API",
+    "logo": "",
+    "keywords": [
+        "telegram",
+        "github"
+    ],
+    "repository": "https://github.com/STD-DEEPANSHU/GitGram",
+    "website": "https://github.com/STD-DEEPANSHU/GitGram",
+    "success_url": "https://t.me/DEEPANSHU_KI_DUNIYA",
+    "stack": "container",
+    "env": {
+        "ENV": {
+            "description": "Fill this if you using environ variable as config.",
+            "value": "True"
+        },
+        "BOT_TOKEN": {
+            "description": "Get Bot API Token from @BotFather on Telegram",
+            "value": ""
+        },
+        "PROJECT_NAME": {
+            "description": "Project of what you desire",
+            "value": ""
+        },
+        "APP_URL": {
+            "description": "Heroku app url, example: https://appname.herokuapp.com",
+            "value": ""
+        }
+    }
+  }
