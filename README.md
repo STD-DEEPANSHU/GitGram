@@ -17,7 +17,7 @@ The easiest way to host this bot, deploy to Heroku, Change the app country to Eu
  - Then go to Repository Settings
  - Click on Webhooks
  - Then Create a new Webhook like the given pic below
- - Payload Url = https://<appname>.herokuapp.com//<your chat id>
+ - Payload Url = https://gitgram01.herokuapp.com//<your chat id>
  - Content Type = application/json
  - Send me every events
  - Then create a new webhook and everything's done you will receive an message from your bot in the chat that webhook successfuly added for your repo.
