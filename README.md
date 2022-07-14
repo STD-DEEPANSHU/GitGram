@@ -1,6 +1,6 @@
 # ɢɪᴛɢʀᴀᴍ
 
-<p align="center"><a href="https://t.me/DEEPANSHU_KI_DUNIYA"><img src="https://telegra.ph/file/04955bd5888a89dced11a.jpg"></a></p>
+<p align="center"><a href="https://t.me/Tricky_Deepanshu"><img src="https://telegra.ph/file/04955bd5888a89dced11a.jpg"></a></p>
 
  A Telegram Bot to notify you about your Github Repository Events
 
@@ -24,7 +24,7 @@ The easiest way to host this bot, deploy to Heroku, Change the app country to Eu
 
 ## ᴇxᴀᴍᴩʟᴇ ᴏғ ᴀɴ ᴡᴇʙʜᴏᴏᴋ 👇🏻:
 
-<p align="center"><a href="https://t.me/DEEPANSHU_KI_DUNIYA"><img src="https://telegra.ph/file/c694e61f7faa468ee136d.jpg"></a></p>
+<p align="center"><a href="https://t.me/Tricky_Deepanshu"><img src="https://telegra.ph/file/c694e61f7faa468ee136d.jpg"></a></p>
 
 # ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴩs:
 - Install all requirements, `pip3 install -r requirements.txt`
@@ -52,7 +52,7 @@ The easiest way to host this bot, deploy to Heroku, Change the app country to Eu
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## sᴜᴩᴩᴏʀᴛ 🎑
-<a href="https://t.me/DEEPANSHU_KI_DUNIYA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Tricky_Deepanshu"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://telegram.me/STD_DEEPANSHU"><img src="https://img.shields.io/badge/%20Deepanshu-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
