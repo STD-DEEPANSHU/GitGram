@@ -31,7 +31,7 @@ else:
 updater = Updater(token=BOT_TOKEN, workers=1)
 dispatcher = updater.dispatcher
 
-print("If you need more help from Me, Join @DEEPANSHU_KI_DUNIYA in Telegram.")
+print("If you need more help from Me, Join @Tricky_Deepanshu in Telegram.")
 
 
 def start(_bot, update):
@@ -55,7 +55,7 @@ def support(_bot, update):
     """Links to Support"""
     message = update.effective_message
     message.reply_text(
-        f"*ɢᴇᴛᴛɪɴɢ sᴜᴘᴘᴏʀᴛ*\n\nꜰᴏʀ ɢᴇᴛᴛɪɴɢ ʜᴇʟᴘ ɪɴ ᴜsɪɴɢ ᴍᴇ, ᴊᴏɪɴ [Deepanshu Support](https://t.me/DEEPANSHU_KI_DUNIYA).",
+        f"*ɢᴇᴛᴛɪɴɢ sᴜᴘᴘᴏʀᴛ*\n\nꜰᴏʀ ɢᴇᴛᴛɪɴɢ ʜᴇʟᴘ ɪɴ ᴜsɪɴɢ ᴍᴇ, ᴊᴏɪɴ [Deepanshu Support](https://t.me/Tricky_Deepanshu).",
         disable_web_page_preview=True,
         parse_mode="markdown"
     )
